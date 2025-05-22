@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+body {
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+  background-color: blue;
+  color: whitesmoke;
+  padding: 1em;
+}
+
+
+.book {
+  background-color: greenyellow;
+  color: crimson;
+  text-align: center;
+  margin: 1em;  
+  padding: 3%;
+  border-radius: 5em;
+  border:  0.5em dashed cornflowerblue;
+}
+
+.movie {
+  background-color:  coral;
+  color: palegreen;
+  text-align: center;
+  margin: 1em;
+  padding: 3%;
+  border-radius: 0 5em 0 5em;
+  border: 0.5em inset firebrick;
+}
+
+.book2 {
+    background-color: peru;
+    color: whitesmoke;
+    text-align: center;
+    margin: 1em;
+    padding: 3%;
+    border-radius: 0 5em 0 0;
+    border: 0.5em double navy;
+}
